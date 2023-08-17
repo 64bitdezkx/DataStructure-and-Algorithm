@@ -1,4 +1,0 @@
-﻿  排序.cpp
-G:\Study\Git-Space\Data Structure\01\01\排序.cpp(39,21): warning C4838: 从“double”转换到“int”需要收缩转换
-G:\Study\Git-Space\Data Structure\01\01\排序.cpp(39,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  01.vcxproj -> G:\Study\Git-Space\Data Structure\01\01\Debug\01.exe
